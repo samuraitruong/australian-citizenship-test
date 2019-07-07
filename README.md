@@ -9,7 +9,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 ## Information Collection and Use
 
-Australian Citizenship Test will request to access your name on Google and use it during the conversasion.
+Australian Citizenship Test will request to access your name on Google and use it during the conversasion. Australian Citizenship Test also ask you your test appoitment date, in case you agree and provide this information, it will be use to remind you every time when you use the app.
 
 ## Log Data
 
